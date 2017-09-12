@@ -1,0 +1,6 @@
+# arty_emb
+
+# v0001
+- Added arty board files
+- Add those files into C:\Xilinx\Vivado\2017.1\data\boards\board_files
+- These files needed for Vivado\2017 to select the Arty board definition
